@@ -1,5 +1,6 @@
 # RPi-Simon
 The classic Milton-Bradley electronic game Simon, written in Python to run on Raspberry Pi
+https://en.wikipedia.org/wiki/Simon_(game)
 
 # Pre-requisites
 Note: This is a hardware+software project!
